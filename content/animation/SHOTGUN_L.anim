@@ -1,0 +1,16 @@
+[ANIMATION_NAME]
+shotgun_l
+
+[ATLAS_TEXTURE]
+shotgun_left
+texture\shotgun_left.png
+
+[FRAME_DATA]
+Frame_Count 1
+
+Frame_Index 0
+Left_Top    0.000000 0.000000
+Offset      0.000000 0.000000
+Slice       82.000000 50.000000
+Duration    0.500000
+

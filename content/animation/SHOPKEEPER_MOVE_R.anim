@@ -1,0 +1,58 @@
+[ANIMATION_NAME]
+shopkeeper_move_r
+
+[ATLAS_TEXTURE]
+Shopkeeper
+texture\Shopkeeper.png
+
+[FRAME_DATA]
+Frame_Count 8
+
+Frame_Index 0
+Left_Top    95.000000 20.000000
+Offset      0.000000 0.000000
+Slice       70.000000 70.000000
+Duration    0.050000
+
+Frame_Index 1
+Left_Top    175.000000 20.000000
+Offset      0.000000 0.000000
+Slice       70.000000 70.000000
+Duration    0.050000
+
+Frame_Index 2
+Left_Top    255.000000 20.000000
+Offset      0.000000 0.000000
+Slice       70.000000 70.000000
+Duration    0.050000
+
+Frame_Index 3
+Left_Top    335.000000 20.000000
+Offset      0.000000 0.000000
+Slice       70.000000 70.000000
+Duration    0.050000
+
+Frame_Index 4
+Left_Top    415.000000 20.000000
+Offset      0.000000 0.000000
+Slice       70.000000 70.000000
+Duration    0.050000
+
+Frame_Index 5
+Left_Top    495.000000 20.000000
+Offset      0.000000 0.000000
+Slice       70.000000 70.000000
+Duration    0.050000
+
+Frame_Index 6
+Left_Top    570.000000 20.000000
+Offset      0.000000 0.000000
+Slice       70.000000 70.000000
+Duration    0.050000
+
+Frame_Index 7
+Left_Top    650.000000 20.000000
+Offset      0.000000 0.000000
+Slice       70.000000 70.000000
+Duration    0.050000
+

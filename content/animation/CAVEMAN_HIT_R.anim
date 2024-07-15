@@ -1,0 +1,40 @@
+[ANIMATION_NAME]
+caveman_hit_r
+
+[ATLAS_TEXTURE]
+monsters
+texture\monsters.png
+
+[FRAME_DATA]
+Frame_Count 5
+
+Frame_Index 0
+Left_Top    85.000000 323.000000
+Offset      0.000000 0.000000
+Slice       70.000000 70.000000
+Duration    0.050000
+
+Frame_Index 1
+Left_Top    165.000000 323.000000
+Offset      0.000000 0.000000
+Slice       70.000000 70.000000
+Duration    0.050000
+
+Frame_Index 2
+Left_Top    245.000000 333.000000
+Offset      0.000000 0.000000
+Slice       70.000000 70.000000
+Duration    0.050000
+
+Frame_Index 3
+Left_Top    325.000000 328.000000
+Offset      0.000000 0.000000
+Slice       70.000000 70.000000
+Duration    0.050000
+
+Frame_Index 4
+Left_Top    5.000000 323.000000
+Offset      0.000000 0.000000
+Slice       70.000000 70.000000
+Duration    0.500000
+

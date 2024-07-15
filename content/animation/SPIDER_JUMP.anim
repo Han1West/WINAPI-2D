@@ -1,0 +1,33 @@
+[ANIMATION_NAME]
+spider_jump
+
+[ATLAS_TEXTURE]
+monsters
+texture\monsters.png
+
+[FRAME_DATA]
+Frame_Count 4
+
+Frame_Index 0
+Left_Top    565.000000 75.000000
+Offset      0.000000 0.000000
+Slice       70.000000 65.000000
+Duration    0.050000
+
+Frame_Index 1
+Left_Top    645.000000 75.000000
+Offset      0.000000 0.000000
+Slice       70.000000 65.000000
+Duration    0.050000
+
+Frame_Index 2
+Left_Top    725.000000 75.000000
+Offset      0.000000 0.000000
+Slice       70.000000 65.000000
+Duration    0.050000
+
+Frame_Index 3
+Left_Top    805.000000 75.000000
+Offset      0.000000 0.000000
+Slice       70.000000 65.000000
+Duration    0.050000

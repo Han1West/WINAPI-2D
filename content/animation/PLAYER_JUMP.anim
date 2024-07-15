@@ -1,0 +1,58 @@
+[ANIMATION_NAME]
+player_jump
+
+[ATLAS_TEXTURE]
+player
+texture\player.png
+
+[FRAME_DATA]
+Frame_Count 8
+
+Frame_Index 0
+Left_Top    0.000000 720.000000
+Offset      0.000000 0.000000
+Slice       80.000000 75.000000
+Duration    0.050000
+
+Frame_Index 1
+Left_Top    80.000000 720.000000
+Offset      0.000000 0.000000
+Slice       80.000000 75.000000
+Duration    0.050000
+
+Frame_Index 2
+Left_Top    160.000000 720.000000
+Offset      0.000000 0.000000
+Slice       80.000000 75.000000
+Duration    0.050000
+
+Frame_Index 3
+Left_Top    240.000000 720.000000
+Offset      0.000000 0.000000
+Slice       80.000000 75.000000
+Duration    0.050000
+
+Frame_Index 4
+Left_Top    320.000000 720.000000
+Offset      0.000000 0.000000
+Slice       80.000000 75.000000
+Duration    0.050000
+
+Frame_Index 5
+Left_Top    400.000000 720.000000
+Offset      0.000000 0.000000
+Slice       80.000000 75.000000
+Duration    0.050000
+
+Frame_Index 6
+Left_Top    480.000000 720.000000
+Offset      0.000000 0.000000
+Slice       80.000000 75.000000
+Duration    0.050000
+
+Frame_Index 7
+Left_Top    560.000000 720.000000
+Offset      0.000000 0.000000
+Slice       80.000000 77.000000
+Duration    0.010000
+

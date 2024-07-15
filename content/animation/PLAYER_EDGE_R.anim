@@ -1,0 +1,16 @@
+[ANIMATION_NAME]
+player_edge_r
+
+[ATLAS_TEXTURE]
+player
+texture\player.png
+
+[FRAME_DATA]
+Frame_Count 1
+
+Frame_Index 0
+Left_Top    725.000000 245.000000
+Offset      0.000000 0.000000
+Slice       70.000000 73.000000
+Duration    0.000000
+

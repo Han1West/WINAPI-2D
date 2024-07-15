@@ -1,0 +1,16 @@
+[ANIMATION_NAME]
+shopkeeper_die_r
+
+[ATLAS_TEXTURE]
+Shopkeeper
+texture\Shopkeeper.png
+
+[FRAME_DATA]
+Frame_Count 1
+
+Frame_Index 0
+Left_Top    335.000000 100.000000
+Offset      0.000000 0.000000
+Slice       70.000000 70.000000
+Duration    0.500000
+

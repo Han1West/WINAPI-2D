@@ -1,0 +1,76 @@
+[ANIMATION_NAME]
+whip_r
+
+[ATLAS_TEXTURE]
+Items
+texture\Items.png
+
+[FRAME_DATA]
+Frame_Count 11
+
+Frame_Index 0
+Left_Top    240.000000 415.000000
+Offset      -45.000000 -5.000000
+Slice       70.000000 65.000000
+Duration    0.03000
+
+Frame_Index 1
+Left_Top    320.000000 415.000000
+Offset      -45.000000 -5.000000
+Slice       70.000000 65.000000
+Duration    0.03000
+
+Frame_Index 2
+Left_Top    400.000000 415.000000
+Offset     -45.000000 -5.000000
+Slice       70.000000 65.000000
+Duration    0.03000
+
+Frame_Index 3
+Left_Top    480.000000 410.000000
+Offset      -45.000000 -5.000000
+Slice       70.000000 70.000000
+Duration    0.03000
+
+Frame_Index 4
+Left_Top    560.000000 415.000000
+Offset      -45.000000 -5.000000
+Slice       70.000000 65.000000
+Duration    0.03000
+
+Frame_Index 5
+Left_Top    640.000000 400.000000
+Offset      -45.000000 -5.000000
+Slice       65.000000 60.000000
+Duration    0.03000
+
+Frame_Index 6
+Left_Top    720.000000 400.000000
+Offset      0.000000 0.000000
+Slice       70.000000 65.000000
+Duration    0.03000
+
+Frame_Index 7
+Left_Top    800.000000 405.000000
+Offset      0.000000 0.000000
+Slice       72.000000 65.000000
+Duration    0.03000
+
+Frame_Index 8
+Left_Top    880.000000 405.000000
+Offset      0.000000 0.000000
+Slice       75.000000 65.000000
+Duration    0.030000
+
+Frame_Index 9
+Left_Top    960.000000 410.000000
+Offset      0.000000 0.000000
+Slice       80.000000 65.000000
+Duration    0.030000
+
+Frame_Index 10
+Left_Top    1040.000000 410.000000
+Offset      0.000000 0.000000
+Slice       80.000000 65.000000
+Duration    0.030000
+

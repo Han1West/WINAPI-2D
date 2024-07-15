@@ -1,0 +1,34 @@
+[ANIMATION_NAME]
+spider_drop
+
+[ATLAS_TEXTURE]
+monsters
+texture\monsters.png
+
+[FRAME_DATA]
+Frame_Count 4
+
+Frame_Index 0
+Left_Top    85.000000 160.000000
+Offset      0.000000 0.000000
+Slice       70.000000 65.000000
+Duration    0.100000
+
+Frame_Index 1
+Left_Top    165.000000 160.000000
+Offset      0.000000 0.000000
+Slice       70.000000 65.000000
+Duration    0.100000
+
+Frame_Index 2
+Left_Top    245.000000 160.000000
+Offset      0.000000 0.000000
+Slice       70.000000 65.000000
+Duration    0.050000
+
+Frame_Index 3
+Left_Top    325.000000 160.000000
+Offset      0.000000 0.000000
+Slice       70.000000 65.000000
+Duration    0.100000
+

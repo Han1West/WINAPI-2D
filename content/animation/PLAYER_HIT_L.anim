@@ -1,0 +1,34 @@
+[ANIMATION_NAME]
+player_hit_l
+
+[ATLAS_TEXTURE]
+player_left
+texture\player_left.png
+
+[FRAME_DATA]
+Frame_Count 4
+
+Frame_Index 0
+Left_Top    940.000000 160.000000
+Offset      2.000000 0.000000
+Slice       80.000000 75.000000
+Duration    0.100000
+
+Frame_Index 1
+Left_Top    860.000000 160.000000
+Offset      2.000000 0.000000
+Slice       80.000000 75.000000
+Duration    0.080000
+
+Frame_Index 2
+Left_Top    780.000000 160.000000
+Offset      2.000000 0.000000
+Slice       80.000000 75.000000
+Duration    0.080000
+
+Frame_Index 3
+Left_Top    700.000000 160.000000
+Offset      2.000000 10.000000
+Slice       80.000000 75.000000
+Duration    0.080000
+

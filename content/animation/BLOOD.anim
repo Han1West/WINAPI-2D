@@ -1,0 +1,142 @@
+[ANIMATION_NAME]
+blood
+
+[ATLAS_TEXTURE]
+blood
+texture\blood.png
+
+[FRAME_DATA]
+Frame_Count 22
+
+Frame_Index 0
+Left_Top    10.000000 10.000000
+Offset      0.000000 0.000000
+Slice       70.000000 70.000000
+Duration    0.020000
+
+Frame_Index 1
+Left_Top    110.000000 10.000000
+Offset      0.000000 0.000000
+Slice       70.000000 70.000000
+Duration    0.020000
+
+Frame_Index 2
+Left_Top    210.000000 10.000000
+Offset      0.000000 0.000000
+Slice       70.000000 70.000000
+Duration    0.020000
+
+Frame_Index 3
+Left_Top    310.000000 10.000000
+Offset      0.000000 0.000000
+Slice       70.000000 70.000000
+Duration    0.020000
+
+Frame_Index 4
+Left_Top    410.000000 10.000000
+Offset      0.000000 0.000000
+Slice       70.000000 70.000000
+Duration    0.020000
+
+Frame_Index 5
+Left_Top    510.000000 10.000000
+Offset      0.000000 0.000000
+Slice       70.000000 70.000000
+Duration    0.020000
+
+Frame_Index 6
+Left_Top    10.000000 110.000000
+Offset      0.000000 0.000000
+Slice       70.000000 70.000000
+Duration    0.020000
+
+Frame_Index 7
+Left_Top    110.000000 110.000000
+Offset      0.000000 0.000000
+Slice       70.000000 70.000000
+Duration    0.020000
+
+Frame_Index 8
+Left_Top    210.000000 110.000000
+Offset      0.000000 0.000000
+Slice       70.000000 70.000000
+Duration    0.020000
+
+Frame_Index 9
+Left_Top    310.000000 110.000000
+Offset      0.000000 0.000000
+Slice       70.000000 70.000000
+Duration    0.020000
+
+Frame_Index 10
+Left_Top    410.000000 110.000000
+Offset      0.000000 0.000000
+Slice       70.000000 70.000000
+Duration    0.020000
+
+Frame_Index 11
+Left_Top    510.000000 110.000000
+Offset      0.000000 0.000000
+Slice       70.000000 70.000000
+Duration    0.020000
+
+Frame_Index 12
+Left_Top    10.000000 210.000000
+Offset      0.000000 0.000000
+Slice       70.000000 70.000000
+Duration    0.020000
+
+Frame_Index 13
+Left_Top    110.000000 210.000000
+Offset      0.000000 0.000000
+Slice       70.000000 70.000000
+Duration    0.020000
+
+Frame_Index 14
+Left_Top    210.000000 210.000000
+Offset      0.000000 0.000000
+Slice       70.000000 70.000000
+Duration    0.020000
+
+Frame_Index 15
+Left_Top    310.000000 210.000000
+Offset      0.000000 0.000000
+Slice       70.000000 70.000000
+Duration    0.020000
+
+Frame_Index 16
+Left_Top    410.000000 210.000000
+Offset      0.000000 0.000000
+Slice       70.000000 70.000000
+Duration    0.020000
+
+Frame_Index 17
+Left_Top    510.000000 210.000000
+Offset      0.000000 0.000000
+Slice       70.000000 70.000000
+Duration    0.020000
+
+Frame_Index 18
+Left_Top    10.000000 310.000000
+Offset      0.000000 0.000000
+Slice       70.000000 70.000000
+Duration    0.020000
+
+Frame_Index 19
+Left_Top    110.000000 310.000000
+Offset      0.000000 0.000000
+Slice       70.000000 70.000000
+Duration    0.020000
+
+Frame_Index 20
+Left_Top    210.000000 310.000000
+Offset      0.000000 0.000000
+Slice       70.000000 70.000000
+Duration    0.020000
+
+Frame_Index 21
+Left_Top    310.000000 310.000000
+Offset      0.000000 0.000000
+Slice       70.000000 70.000000
+Duration    0.050000
+

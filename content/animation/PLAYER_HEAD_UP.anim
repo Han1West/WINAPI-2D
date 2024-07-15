@@ -1,0 +1,34 @@
+[ANIMATION_NAME]
+player_headup_r
+
+[ATLAS_TEXTURE]
+player
+texture\player.png
+
+[FRAME_DATA]
+Frame_Count 4
+
+Frame_Index 0
+Left_Top    0.000000 640.000000
+Offset      0.000000 0.000000
+Slice       80.000000 75.000000
+Duration    0.100000
+
+Frame_Index 1
+Left_Top    80.000000 640.000000
+Offset      0.000000 0.000000
+Slice       80.000000 75.000000
+Duration    0.100000
+
+Frame_Index 2
+Left_Top    160.000000 640.000000
+Offset      0.000000 0.000000
+Slice       80.000000 75.000000
+Duration    0.100000
+
+Frame_Index 3
+Left_Top    240.000000 640.000000
+Offset      0.000000 0.000000
+Slice       80.000000 75.000000
+Duration    0.100000
+

@@ -1,0 +1,52 @@
+[ANIMATION_NAME]
+smoke_left
+
+[ATLAS_TEXTURE]
+smoke_left
+texture\smoke_left.png
+
+[FRAME_DATA]
+Frame_Count 7
+
+Frame_Index 0
+Left_Top    520.000000 19.000000
+Offset      0.000000 0.000000
+Slice       30.000000 30.000000
+Duration    0.050000
+
+Frame_Index 1
+Left_Top    460.000000 18.000000
+Offset      0.000000 0.000000
+Slice       30.000000 30.000000
+Duration    0.050000
+
+Frame_Index 2
+Left_Top    400.000000 18.000000
+Offset      0.000000 0.000000
+Slice       30.000000 30.000000
+Duration    0.050000
+
+Frame_Index 3
+Left_Top    340.000000 18.000000
+Offset      0.000000 0.000000
+Slice       34.000000 30.000000
+Duration    0.050000
+
+Frame_Index 4
+Left_Top    280.000000 18.000000
+Offset      0.000000 0.000000
+Slice       34.000000 30.000000
+Duration    0.050000
+
+Frame_Index 5
+Left_Top    220.000000 19.000000
+Offset      0.000000 0.000000
+Slice       32.000000 30.000000
+Duration    0.050000
+
+Frame_Index 6
+Left_Top    160.000000 18.000000
+Offset      0.000000 0.000000
+Slice       30.000000 30.000000
+Duration    0.050000
+

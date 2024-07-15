@@ -1,0 +1,40 @@
+[ANIMATION_NAME]
+caveman_hit_l
+
+[ATLAS_TEXTURE]
+monsters_left
+texture\monsters_left.png
+
+[FRAME_DATA]
+Frame_Count 5
+
+Frame_Index 0
+Left_Top    870.000000 323.000000
+Offset      0.000000 0.000000
+Slice       70.000000 70.000000
+Duration    0.050000
+
+Frame_Index 1
+Left_Top    790.000000 323.000000
+Offset      0.000000 0.000000
+Slice       70.000000 70.000000
+Duration    0.050000
+
+Frame_Index 2
+Left_Top    710.000000 333.000000
+Offset      0.000000 0.000000
+Slice       70.000000 70.000000
+Duration    0.050000
+
+Frame_Index 3
+Left_Top    630.000000 333.000000
+Offset      0.000000 0.000000
+Slice       70.000000 70.000000
+Duration    0.050000
+
+Frame_Index 4
+Left_Top    950.000000 323.000000
+Offset      0.000000 0.000000
+Slice       70.000000 70.000000
+Duration    0.500000
+

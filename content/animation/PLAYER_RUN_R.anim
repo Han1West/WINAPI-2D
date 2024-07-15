@@ -1,0 +1,46 @@
+[ANIMATION_NAME]
+player_run_r
+
+[ATLAS_TEXTURE]
+player
+texture\player.png
+
+[FRAME_DATA]
+Frame_Count 6
+
+Frame_Index 0
+Left_Top    480.000000 482.000000
+Offset      0.000000 0.000000
+Slice       100.000000 111.000000
+Duration    0.200000
+
+Frame_Index 1
+Left_Top    560.000000 482.000000
+Offset      0.000000 0.000000
+Slice       100.000000 111.000000
+Duration    0.200000
+
+Frame_Index 2
+Left_Top    640.000000 482.000000
+Offset      0.000000 0.000000
+Slice       100.000000 111.000000
+Duration    0.200000
+
+Frame_Index 3
+Left_Top    720.000000 482.000000
+Offset      0.000000 0.000000
+Slice       100.000000 111.000000
+Duration    0.200000
+
+Frame_Index 4
+Left_Top    800.000000 482.000000
+Offset      0.000000 0.000000
+Slice       100.000000 110.000000
+Duration    0.000000
+
+Frame_Index 5
+Left_Top    880.000000 482.000000
+Offset      0.000000 0.000000
+Slice       100.000000 110.000000
+Duration    0.000000
+

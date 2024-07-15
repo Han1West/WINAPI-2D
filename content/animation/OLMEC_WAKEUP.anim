@@ -1,0 +1,28 @@
+[ANIMATION_NAME]
+olmec_wakeup
+
+[ATLAS_TEXTURE]
+Olmec
+texture\Olmec.png
+
+[FRAME_DATA]
+Frame_Count 3
+
+Frame_Index 0
+Left_Top    1.000000 0.000000
+Offset      0.000000 0.000000
+Slice       252.000000 250.000000
+Duration    1.000000
+
+Frame_Index 1
+Left_Top    256.000000 0.000000
+Offset      0.000000 0.000000
+Slice       252.000000 250.000000
+Duration    1.000000
+
+Frame_Index 2
+Left_Top    1.000000 253.000000
+Offset      0.000000 0.000000
+Slice       252.000000 250.000000
+Duration    1.000000
+

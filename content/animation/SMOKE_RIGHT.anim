@@ -1,0 +1,52 @@
+[ANIMATION_NAME]
+smoke_right
+
+[ATLAS_TEXTURE]
+smoke
+texture\smoke.png
+
+[FRAME_DATA]
+Frame_Count 7
+
+Frame_Index 0
+Left_Top    25.000000 18.000000
+Offset      0.000000 0.000000
+Slice       30.000000 30.000000
+Duration    0.050000
+
+Frame_Index 1
+Left_Top    80.000000 18.000000
+Offset      0.000000 0.000000
+Slice       30.000000 30.000000
+Duration    0.050000
+
+Frame_Index 2
+Left_Top    140.000000 18.000000
+Offset      0.000000 0.000000
+Slice       30.000000 30.000000
+Duration    0.050000
+
+Frame_Index 3
+Left_Top    200.000000 18.000000
+Offset      0.000000 0.000000
+Slice       30.000000 30.000000
+Duration    0.050000
+
+Frame_Index 4
+Left_Top    260.000000 18.000000
+Offset      0.000000 0.000000
+Slice       30.000000 30.000000
+Duration    0.050000
+
+Frame_Index 5
+Left_Top    320.000000 18.000000
+Offset      0.000000 0.000000
+Slice       30.000000 30.000000
+Duration    0.050000
+
+Frame_Index 6
+Left_Top    380.000000 18.000000
+Offset      0.000000 0.000000
+Slice       30.000000 30.000000
+Duration    0.050000
+

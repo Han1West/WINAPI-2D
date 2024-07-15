@@ -1,0 +1,46 @@
+[ANIMATION_NAME]
+bigsnake_attack_l
+
+[ATLAS_TEXTURE]
+monsters_left
+texture\monsters_left.png
+
+[FRAME_DATA]
+Frame_Count 6
+
+Frame_Index 0
+Left_Top    469.000000 640.000000
+Offset      0.000000 0.000000
+Slice       70.000000 70.000000
+Duration    0.050000
+
+Frame_Index 1
+Left_Top    535.000000 640.000000
+Offset      0.000000 0.000000
+Slice       80.000000 70.000000
+Duration    0.050000
+
+Frame_Index 2
+Left_Top    380.000000 647.000000
+Offset      0.000000 0.000000
+Slice       80.000000 70.000000
+Duration    0.050000
+
+Frame_Index 3
+Left_Top    297.000000 642.000000
+Offset      0.000000 0.000000
+Slice       80.000000 70.000000
+Duration    0.050000
+
+Frame_Index 4
+Left_Top    217.000000 642.000000
+Offset      0.000000 0.000000
+Slice       80.000000 70.000000
+Duration    0.050000
+
+Frame_Index 5
+Left_Top    137.000000 642.000000
+Offset      0.000000 0.000000
+Slice       80.000000 70.000000
+Duration    0.050000
+

@@ -1,0 +1,46 @@
+[ANIMATION_NAME]
+bigsnake_attack_r
+
+[ATLAS_TEXTURE]
+monsters
+texture\monsters.png
+
+[FRAME_DATA]
+Frame_Count 6
+
+Frame_Index 0
+Left_Top    485.000000 640.000000
+Offset      0.000000 0.000000
+Slice       70.000000 70.000000
+Duration    0.050000
+
+Frame_Index 1
+Left_Top    405.000000 640.000000
+Offset      0.000000 0.000000
+Slice       80.000000 70.000000
+Duration    0.050000
+
+Frame_Index 2
+Left_Top    560.000000 647.000000
+Offset      0.000000 0.000000
+Slice       80.000000 70.000000
+Duration    0.050000
+
+Frame_Index 3
+Left_Top    643.000000 642.000000
+Offset      0.000000 0.000000
+Slice       80.000000 70.000000
+Duration    0.050000
+
+Frame_Index 4
+Left_Top    725.000000 642.000000
+Offset      0.000000 0.000000
+Slice       80.000000 70.000000
+Duration    0.050000
+
+Frame_Index 5
+Left_Top    805.000000 642.000000
+Offset      0.000000 0.000000
+Slice       80.000000 70.000000
+Duration    0.050000
+

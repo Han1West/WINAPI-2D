@@ -1,0 +1,16 @@
+[ANIMATION_NAME]
+shopkeeper_idle_l
+
+[ATLAS_TEXTURE]
+Shopkeeper_left
+texture\Shopkeeper_left.png
+
+[FRAME_DATA]
+Frame_Count 1
+
+Frame_Index 0
+Left_Top    725.000000 20.000000
+Offset      0.000000 0.000000
+Slice       70.000000 70.000000
+Duration    0.000000
+

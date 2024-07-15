@@ -1,0 +1,82 @@
+[ANIMATION_NAME]
+dizzy_birds
+
+[ATLAS_TEXTURE]
+Dizzy_Birds
+texture\Dizzy_Birds.png
+
+[FRAME_DATA]
+Frame_Count 12
+
+Frame_Index 0
+Left_Top    2.000000 10.000000
+Offset      0.000000 0.000000
+Slice       60.000000 30.000000
+Duration    0.050000
+
+Frame_Index 1
+Left_Top    82.000000 10.000000
+Offset      0.000000 0.000000
+Slice       60.000000 30.000000
+Duration    0.050000
+
+Frame_Index 2
+Left_Top    162.000000 10.000000
+Offset      0.000000 0.000000
+Slice       60.000000 30.000000
+Duration    0.050000
+
+Frame_Index 3
+Left_Top    242.000000 10.000000
+Offset      0.000000 0.000000
+Slice       60.000000 30.000000
+Duration    0.050000
+
+Frame_Index 4
+Left_Top    322.000000 10.000000
+Offset      0.000000 0.000000
+Slice       60.000000 30.000000
+Duration    0.050000
+
+Frame_Index 5
+Left_Top    402.000000 10.000000
+Offset      0.000000 0.000000
+Slice       60.000000 30.000000
+Duration    0.050000
+
+Frame_Index 6
+Left_Top    482.000000 10.000000
+Offset      0.000000 0.000000
+Slice       60.000000 30.000000
+Duration    0.050000
+
+Frame_Index 7
+Left_Top    557.000000 10.000000
+Offset      0.000000 0.000000
+Slice       60.000000 30.000000
+Duration    0.050000
+
+Frame_Index 8
+Left_Top    640.000000 10.000000
+Offset      0.000000 0.000000
+Slice       60.000000 30.000000
+Duration    0.050000
+
+Frame_Index 9
+Left_Top    720.000000 10.000000
+Offset      0.000000 0.000000
+Slice       60.000000 30.000000
+Duration    0.050000
+
+Frame_Index 10
+Left_Top    800.000000 10.000000
+Offset      0.000000 0.000000
+Slice       60.000000 30.000000
+Duration    0.050000
+
+Frame_Index 11
+Left_Top    870.000000 10.000000
+Offset      10.000000 0.000000
+Slice       60.000000 30.000000
+Duration    0.050000
+
